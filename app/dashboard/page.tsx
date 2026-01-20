@@ -17,7 +17,7 @@ export default function Dashboard() {
         <div className="p-6 lg:p-8 max-w-7xl mx-auto">
           {/* Welcome Section */}
           <div className="mb-10">
-            <h2 className="text-3xl font-bold text-foreground mb-2">Welcome back, Entrepreneur</h2>
+            <h2 className="text-3xl font-bold text-foreground mb-2">Welcome back, Dear Beneficiary</h2>
             <p className="text-muted-foreground">Track your venture progress, report, and manage your grant allocation</p>
           </div>
 
