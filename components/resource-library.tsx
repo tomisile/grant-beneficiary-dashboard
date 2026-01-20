@@ -46,7 +46,7 @@ const resources = [
     icon: Users,
     description: "Connect with experienced entrepreneurs and business mentors for guidance and support.",
     duration: "Ongoing",
-    instructor: "YTEI Program",
+    instructor: "Grant Program",
     level: "All Levels",
   },
   {
@@ -90,7 +90,7 @@ const resources = [
     icon: Users,
     description: "Join weekly meetings with fellow beneficiaries to share progress, challenges, and celebrate wins.",
     duration: "Every Monday, 2PM",
-    instructor: "YTEI Program",
+    instructor: "Grant Program",
     level: "All Levels",
   },
 ]

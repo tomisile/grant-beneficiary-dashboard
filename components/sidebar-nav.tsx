@@ -42,8 +42,8 @@ export function SidebarNav() {
       >
         {/* Logo/Header */}
         <div className="p-6 border-b border-sidebar-border">
-          <h1 className="text-xl font-bold text-foreground">YTEI</h1>
-          <p className="text-xs text-muted-foreground mt-1">Youth Tech Equity</p>
+          <h1 className="text-xl font-bold text-foreground">Calabar</h1>
+          <p className="text-xs text-muted-foreground mt-1">Grant Program</p>
         </div>
 
         {/* Navigation */}
