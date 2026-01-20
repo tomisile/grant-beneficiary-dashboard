@@ -8,8 +8,8 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Youth Empowerment Initiative - Beneficiary Dashboard",
-  description: "Track your business progress, manage your grant, and achieve your entrepreneurial goals",
+  title: "Grant Beneficiary Dashboard",
+  description: "Track your venture progress, report, and manage your grant allocation",
   generator: "v0.app",
   icons: {
     icon: [
