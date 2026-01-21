@@ -14,7 +14,7 @@ export default function Funds() {
           </div>
         </div>
 
-        <div className="p-6 lg:p-8 max-w-5xl mx-auto">
+        <div className="p-6 lg:p-8 max-w-5xl mx-auto pt-12 lg:pt-6">
           <div className="mb-8">
             <h2 className="text-3xl font-bold text-foreground mb-2">Grant Allocation & Disbursement</h2>
             <p className="text-muted-foreground">

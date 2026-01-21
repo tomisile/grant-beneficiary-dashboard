@@ -24,7 +24,7 @@ export function SidebarNav() {
       {/* Mobile menu button */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="fixed top-4 left-4 z-50 lg:hidden p-2 hover:bg-secondary rounded-lg transition-colors"
+        className="fixed top-2 left-4 z-50 lg:hidden p-2 hover:bg-secondary rounded-lg transition-colors"
       >
         {isOpen ? <X size={24} /> : <Menu size={24} />}
       </button>

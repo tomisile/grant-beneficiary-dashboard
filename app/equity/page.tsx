@@ -14,7 +14,7 @@ export default function Equity() {
           </div>
         </div>
 
-        <div className="p-6 lg:p-8 max-w-5xl mx-auto">
+        <div className="p-6 lg:p-8 max-w-5xl mx-auto pt-12 lg:pt-6">
           <div className="mb-8">
             <h2 className="text-3xl font-bold text-foreground mb-2">Grant Agreement & Compliance</h2>
             <p className="text-muted-foreground">Acknowledge grant terms, submit required documents, and track compliance status</p>
